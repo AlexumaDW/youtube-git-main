@@ -1,0 +1,99 @@
+commit b8a80d1e8e4f552d564d853f5d6ed38afcf0213f
+Author: alexuma <alexumadw@gmail.com>
+Date:   Thu Jun 8 11:38:01 2023 -0300
+
+    Agregando 2 Párrafos
+
+commit d800e63337ebe28ccd0264d05e5e5aa2ef2087b1
+Merge: db83301 6592f85
+Author: alexuma <alexumadw@gmail.com>
+Date:   Thu Jun 8 11:35:51 2023 -0300
+
+    Merge branch 'main' of https://github.com/AlexumaDW/youtube-git-main
+
+commit db83301347d4a8f3b353e06d6a4dee1b7a3ee52e
+Merge: d7269e9 b41504a
+Author: alexuma <alexumadw@gmail.com>
+Date:   Thu Jun 8 10:41:23 2023 -0300
+
+    Agregando 2 Párrafos
+
+commit 6592f8583066e678569ff0ad577232052039e759
+Merge: d7269e9 b41504a
+Author: alexuma <alexumadw@gmail.com>
+Date:   Thu Jun 8 10:41:23 2023 -0300
+
+    Resolviendo conflicto en las del año y fecha de inicio
+
+commit d7269e925abdd4ff0dfd0090c7a4ecb4aae2c8ae
+Author: alexuma <alexumadw@gmail.com>
+Date:   Thu Jun 8 10:08:01 2023 -0300
+
+    Agregando estaciones del año con fecha de inicio
+
+commit b41504aeea670cb5ed59aeb42ba4d0b78ea49010
+Author: alexuma <alexumadw@gmail.com>
+Date:   Thu Jun 8 10:08:01 2023 -0300
+
+    Agregando las estaciones del año
+
+commit 64a7de5d5a0c65a312f5789a2e5394bd1dc673a8
+Author: alexuma <alexumadw@gmail.com>
+Date:   Thu Jun 8 10:04:07 2023 -0300
+
+    Cambios en el HTML
+
+commit c3480a76cd118eebba61e70ccbd68cbda4a2b23f
+Author: alexuma <alexumadw@gmail.com>
+Date:   Wed Jun 7 18:12:49 2023 -0300
+
+    Agregando index.js al index.html
+
+commit d2e2ea51f45a408c9d83b19d1bde6bea4d6ee185
+Merge: f420f27 d53d1f2
+Author: alexuma <alexumadw@gmail.com>
+Date:   Wed Jun 7 17:40:19 2023 -0300
+
+    Merge branch 'js'
+
+commit d53d1f2c00a64485bc66e397972004ea55d8704b
+Author: alexuma <alexumadw@gmail.com>
+Date:   Wed Jun 7 17:13:35 2023 -0300
+
+    Creando index.js
+
+commit f420f27ca223f51d9dd1c585da0be43ebc8151c1
+Author: alexuma <alexumadw@gmail.com>
+Date:   Wed Jun 7 17:08:20 2023 -0300
+
+    Creando style.css
+
+commit bd5b39a28c3d74a2bffa13fd9e324f95c7194d90
+Author: alexuma <alexumadw@gmail.com>
+Date:   Wed Jun 7 16:42:14 2023 -0300
+
+    Agregando contenido al README
+
+commit 45db2097bcfdc387c8413014fa874dd6e743886f
+Author: alexuma <alexumadw@gmail.com>
+Date:   Wed Jun 7 15:00:21 2023 -0300
+
+    ignorando archivos .exe
+
+commit 40586977ff130a7f865e77ab055036a8b5bc9e92
+Author: alexuma <alexumadw@gmail.com>
+Date:   Wed Jun 7 14:34:44 2023 -0300
+
+    agregando .gitignore y license.txt
+
+commit 19a8f0b2de183c77d46fe68b06f43817676c0821
+Author: alexuma <alexumadw@gmail.com>
+Date:   Wed Jun 7 14:29:36 2023 -0300
+
+    Agregando contenido al README
+
+commit 5aa7207628b9d8f2bcbc2ebca523f911c26ca318
+Author: alexuma <alexumadw@gmail.com>
+Date:   Wed Jun 7 14:25:32 2023 -0300
+
+    Primer commit
